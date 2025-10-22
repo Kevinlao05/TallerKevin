@@ -33,7 +33,7 @@ function App() {
       <br />
 
       <p>
-        <strong>Estudiante:</strong> Victor Andres Pineda Mosquera
+        <strong>Estudiante:</strong> Victor Andres Pineda Mosquera & Kevin fernando palacios 
       </p>
       <p>
         <strong>Clase:</strong> Actualización y Mantenimiento de Software
